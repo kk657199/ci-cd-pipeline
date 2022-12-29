@@ -68,13 +68,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-3fb71f896836.js"></script>
   
 
-  <title>SnapShot/logo192.png at master · Yog9/SnapShot</title>
+  <title>SnapShot/Loader.js at master · Yog9/SnapShot</title>
 
 
 
     
 
-  <meta name="request-id" content="D133:08BC:20F0FE:2C8773:63AD889A" data-turbo-transient="true" /><meta name="html-safe-nonce" content="40c78d6afa66ac25a3ff4178c5c2350597615f3715dd113aad675e2763060e4a" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9Zb2c5L1NuYXBTaG90L3RyZWUvbWFzdGVyL3B1YmxpYyIsInJlcXVlc3RfaWQiOiJEMTMzOjA4QkM6MjBGMEZFOjJDODc3Mzo2M0FEODg5QSIsInZpc2l0b3JfaWQiOiI3MzU0NTM5ODA0MTk1NTEyNTY5IiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="e38a15fb169db4dc2a665c6a56286ba79b38a46ea7ecc3a9cb461dd5e60552f2" data-turbo-transient="true" />
+  <meta name="request-id" content="D86D:7A91:4B26C:1136AA:63AD9FD0" data-turbo-transient="true" /><meta name="html-safe-nonce" content="40c78d6afa66ac25a3ff4178c5c2350597615f3715dd113aad675e2763060e4a" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9Zb2c5L1NuYXBTaG90L3RyZWUvbWFzdGVyL3NyYy9jb21wb25lbnRzIiwicmVxdWVzdF9pZCI6IkQ4NkQ6N0E5MTo0QjI2QzoxMTM2QUE6NjNBRDlGRDAiLCJ2aXNpdG9yX2lkIjoiNzM1NDUzOTgwNDE5NTUxMjU2OSIsInJlZ2lvbl9lZGdlIjoiY2VudHJhbGluZGlhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="c6b14655406fd1d8942de9ce9f36b33532bce89f724ac382eb39b9f7660ea5ad" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:194498981" data-turbo-transient>
@@ -108,16 +108,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="SnapShot is Gallery created using React Hooks, Context API and React Router. The Routes were setup for four default pages and a  search page. Also the images were displayed using the Flickr API and Axios to fetch data.  - SnapShot/logo192.png at master · Yog9/SnapShot">
+      <meta name="description" content="SnapShot is Gallery created using React Hooks, Context API and React Router. The Routes were setup for four default pages and a  search page. Also the images were displayed using the Flickr API and Axios to fetch data.  - SnapShot/Loader.js at master · Yog9/SnapShot">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/1e27ed7784a7077c75db63a43c2bfd0cac7646558923cf653417bdbc52f34416/Yog9/SnapShot" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="SnapShot/logo192.png at master · Yog9/SnapShot" /><meta name="twitter:description" content="SnapShot is Gallery created using React Hooks, Context API and React Router. The Routes were setup for four default pages and a  search page. Also the images were displayed using the Flickr API and..." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/1e27ed7784a7077c75db63a43c2bfd0cac7646558923cf653417bdbc52f34416/Yog9/SnapShot" /><meta property="og:image:alt" content="SnapShot is Gallery created using React Hooks, Context API and React Router. The Routes were setup for four default pages and a  search page. Also the images were displayed using the Flickr API and..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="SnapShot/logo192.png at master · Yog9/SnapShot" /><meta property="og:url" content="https://github.com/Yog9/SnapShot" /><meta property="og:description" content="SnapShot is Gallery created using React Hooks, Context API and React Router. The Routes were setup for four default pages and a  search page. Also the images were displayed using the Flickr API and..." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/1e27ed7784a7077c75db63a43c2bfd0cac7646558923cf653417bdbc52f34416/Yog9/SnapShot" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="SnapShot/Loader.js at master · Yog9/SnapShot" /><meta name="twitter:description" content="SnapShot is Gallery created using React Hooks, Context API and React Router. The Routes were setup for four default pages and a  search page. Also the images were displayed using the Flickr API and..." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/1e27ed7784a7077c75db63a43c2bfd0cac7646558923cf653417bdbc52f34416/Yog9/SnapShot" /><meta property="og:image:alt" content="SnapShot is Gallery created using React Hooks, Context API and React Router. The Routes were setup for four default pages and a  search page. Also the images were displayed using the Flickr API and..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="SnapShot/Loader.js at master · Yog9/SnapShot" /><meta property="og:url" content="https://github.com/Yog9/SnapShot" /><meta property="og:description" content="SnapShot is Gallery created using React Hooks, Context API and React Router. The Routes were setup for four default pages and a  search page. Also the images were displayed using the Flickr API and..." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/121566511/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjE1NjY1MTEsInMiOjEwMjA5ODQ5ODcsImMiOjU5OTk2Mzk3NywidCI6MTY3MjMxNzA4Mn0=--a4aa01aa7c5a6e7fff7eca6095babbe5d08f06b3690fba3f9288ffbe0342856b" data-refresh-url="/_alive" data-session-id="7d4e3168afa6331706c5365edabbe3256fc4e8f0f6bb1fab4dd7248b65cd30f2">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/121566511/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjE1NjY1MTEsInMiOjEwMjA5ODQ5ODcsImMiOjEzNTcyOTM2ODEsInQiOjE2NzIzMjMwMjR9--d8f045fa757e786190e56a3d438686426b5aad53c00a089cf32760128140d3b4" data-refresh-url="/_alive" data-session-id="7d4e3168afa6331706c5365edabbe3256fc4e8f0f6bb1fab4dd7248b65cd30f2">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -147,7 +147,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Yog9/SnapShot/blob/master/public/logo192.png" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/Yog9/SnapShot/blob/master/src/components/Loader.js" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -240,7 +240,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="z_KoIMkfzhLlu5ONeoQmw0HjeVBicr5_H4GJIDkOZZdAjUnmN1b9IItU6Gjgcmws9kD1spx8IaVg-EbkYogxvg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="u5wsjwPkzMrRNRrmNCT-6E1OjbDUN1EBbvtFhNY56Go0481J_a3_-L_aYQOu0rQH-u0BUio5ztsRgopAjb-8Qw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -439,7 +439,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;kk657199&quot;,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/public/logo192.png&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="b2226c06b311f89ad9741b8a8188722b3cc080dcfff2b2073c2215b2ddae9cf3" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;kk657199&quot;,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/src/components/Loader.js&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="dd49601f7abbb3d3f0882b51ccb15c19b84a60bfd3dc30b299fd7557b0f7b768" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -447,7 +447,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/121566511?s=40&amp;v=4" width="20" height="20" alt="@kk657199" />
       kk657199
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4fk_DYDPEcoLECoEN4QdBBOn7HXcD3slJ-oTD9X3gtr4kLO5YvpdNukjkIROjh5G-SKp9JhdiGk_QehcF8mEiw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="z-Ppbm5WKhoQM_wS1XQCu0SxeQHhT_qrnu9vspd3hnrWimXajGNm5vIARpKsfgH5rjQ8gKUdCeeGRJThVUmAKw" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -482,7 +482,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIxNTY2NTExIiwidCI6MTY3MjMxNzA4Mn0=--63fe3ea262388890399d02018530479dff8ca38f156d3fd2772d195cd9501b07" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIxNTY2NTExIiwidCI6MTY3MjMyMzAyNH0=--5b28ab37399e62f035542f70a0a78e18b4354cdc81e97380adb4e9b73b2cc26b" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -640,7 +640,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/Yog9/SnapShot/blob/master/public/logo192.png
+      return-to=/Yog9/SnapShot/blob/master/src/components/Loader.js
       user-id="121566511"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1607,7 +1607,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/public/logo192.png&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="9c73bd3b2f30393e3cb9f30f857b7006fa45e4a2bbb715b738d0b39e9977db7a" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/src/components/Loader.js&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="8757755d4f731a7e4502e68a3117b8ebc0fe22be3d7fcd7b03980114b0d53923" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1659,7 +1659,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bmOLjcXd7bBLosGuOcZldzv6ziKCUHAOZu7MdHSmyr2iERBwOfrq60vtzy760pvuQ8lAZJKmp5MuM2nWzfjwGw" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oAnTRTD7PDFKYttLpGer7dQ6KXF8tAIPsvAkIFP69gRse0i4zNw7akot1ctnc1V0rAmnN2xC1ZL6LYGC6qTMog" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="194498981">
 
@@ -1787,7 +1787,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eRIZ5rLcouXJA5AWi5optxYeT45i6uuVix7s0cZunsO1YIIbTvulvslMnpZIjtcubi3ByHIcPAjDw0lzfzCkZQ" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="csvQ_zsXEkFiGvcPa4THXYEKhsEeVvecItPEzz9ae5u-uUsCxzAVGmJV-Y-okDnE-TkIhw6gIAFqDmFthgRBPQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="194498981">
 
@@ -1938,7 +1938,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/Yog9/SnapShot/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/public/logo192.png&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="087fccf35b5ccfd3b6f4bc7737d047735f7442d45270e80503c71edb4231c49a" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Yog9/SnapShot" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/Yog9/SnapShot/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/src/components/Loader.js&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="068ea7200dbf27218ffcd98e101de927cf74f4c360d92dec0518a7b75e49add1" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Yog9/SnapShot" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="392" data-view-component="true" class="Counter">392</span>
@@ -1956,13 +1956,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-d91d3b">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-899dde">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-d91d3b"
+        id="filter-menu-899dde"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2004,10 +2004,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Yog9/SnapShot/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4hpCpEv8kKKh09pRJc6qChNk2NGwXjdBPVy5v8FxJtjLEInbVqNb495oWRsZYIlcyLRrYG4clSiZQt6-ARUZvA" autocomplete="off" />
-          <input type="hidden" value="EEbmRg-tAKyLkmn_mU4KGMTOtM5xqACHMEyyQRblKhQ5TC05EvLL7fQp6rWl4ClOHx4Hf6_qou6UUtVA1oEVcA" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Yog9/SnapShot/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1V7yKOfuPlrO8DFrceyRCGdv9cfLow3Rai-Q9dVxkrX8VDlX-rH1G7FLsiFNQrJevL9GdhXhr7jOMff0FRWt0Q" autocomplete="off" />
+          <input type="hidden" value="qMwyc9Ih6ZWE10eJnVO0Q8W5LzdIr_vx90odsO44WDSBxvkMz34i1PtsxMOh_ZcVHmmchpbtWZhTVHqxLlxnUA" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/public/logo192.png&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="fb7f736a84bcddebae0ed2089919305d1e8b27484ff261e822a184f6d81fbe29" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (329)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/src/components/Loader.js&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="73b3842ce102cf1bbc74304c92e9ce7665a6b41e60df1c8c00a56e62307e8dac" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (329)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2025,13 +2025,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-cac7b8">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-31fb0c">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-cac7b8"
+        id="filter-menu-31fb0c"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2052,9 +2052,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Yog9/SnapShot/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0_CanTUJEckQA588U-AKqOrFFg7Zv86c9f2UUhgKPP618eUvmr114EsAonNTb0FbWRWyRDtRdRBK6dK-MwveaA" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Yog9/SnapShot/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lDb13569zdXcCqDSl7QENki-XzD8o9ZBimZ9KHG9HUzyN4ptMQmp_IcJnZ2XO0_F-277eh5Nbc01cjvEWrz_2g" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/public/logo192.png&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="0a725d89c5f45e3192d88a1c75a8d7f2bff629c3033050b1b7af973ae69741a3" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (329)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/src/components/Loader.js&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="408e9ee865ca25cf0be093024fb7ea9f679999480b2d55795176b44f0299dd6a" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (329)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2072,13 +2072,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-cac7b8">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-31fb0c">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-cac7b8"
+        id="filter-menu-31fb0c"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2265,7 +2265,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Yog9/SnapShot/blob/406d69553793e0d85871069326bfa22ee1566ad7/public/logo192.png">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Yog9/SnapShot/blob/406d69553793e0d85871069326bfa22ee1566ad7/src/components/Loader.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2273,7 +2273,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/public/logo192.png&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="b256a413d7bd0823860d6564392d56226659ddb0403f18c4b5c45923541d175d">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/src/components/Loader.js&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="a2d02262b794804827bac22ca29ca7814cf40ecb6fea17113b4998cc2ef9c19a">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2354,7 +2354,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Yog9/SnapShot/blob/{{ urlEncodedRefName }}/public/logo192.png" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Yog9/SnapShot/blob/{{ urlEncodedRefName }}/src/components/Loader.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2396,7 +2396,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Yog9/SnapShot/blob/{{ urlEncodedRefName }}/public/logo192.png" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Yog9/SnapShot/blob/{{ urlEncodedRefName }}/src/components/Loader.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2457,7 +2457,54 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Yog9/SnapShot"><span>SnapShot</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Yog9/SnapShot/tree/master/public"><span>public</span></a></span><span class="separator">/</span><strong class="final-path">logo192.png</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Yog9/SnapShot"><span>SnapShot</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Yog9/SnapShot/tree/master/src"><span>src</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Yog9/SnapShot/tree/master/src/components"><span>components</span></a></span><span class="separator">/</span><strong class="final-path">Loader.js</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:194498981,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/src/components/Loader.js&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="8ec7763e2c0a2726b241b615fb53255e20d45b2efe45a5004f024573eabc2671" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:194498981,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/src/components/Loader.js&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="671f291e9d1e81bfab40b0fd70b8cb03359a3387b74d19e8b43ba60ca83636bf" href="/Yog9/SnapShot/blob/master/src/components/Loader.js#L3">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>Loader</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/Yog9/SnapShot/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2468,7 +2515,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/public/logo192.png&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="5ef1fee6767e3a7b9a5e73e1740b0e732fe3dd2751c7d95056a580e887baa7b7" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/Yog9/SnapShot/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/src/components/Loader.js&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="ec7c9fc5e2eb07da806f7e881ffce43f8b0b070cb18296ce62b34966d9893bbc" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/Yog9/SnapShot/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2478,15 +2525,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="public/logo192.png" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="src/components/Loader.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Yog9/SnapShot/blob/406d69553793e0d85871069326bfa22ee1566ad7/public/logo192.png" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Yog9/SnapShot/blob/406d69553793e0d85871069326bfa22ee1566ad7/src/components/Loader.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2518,17 +2571,80 @@
     <include-fragment src="/Yog9/SnapShot/spoofed_commit_check/406d69553793e0d85871069326bfa22ee1566ad7" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/Yog9/SnapShot/contributors/master/public/logo192.png" class="commit-loader">
-    <div class="Box-header d-flex flex-items-center">
-      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-    </div>
+  
+  <div class="Box-header Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" href="/Yog9"><img class="avatar avatar-user" skip_hovercard="20" src="https://avatars.githubusercontent.com/u/20906162?s=48&amp;v=4" width="24" height="24" alt="@Yog9" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="author" href="/Yog9">Yog9</a>
 
-    <div class="Box-body d-flex flex-items-center" >
-      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
-    </div>
-</include-fragment></div>
+              <span class="markdown-title">
+                <a data-pjax="true" title="yml files added" class="Link--secondary" href="/Yog9/SnapShot/commit/d3f1522f9f3d9504df2e0ba400253813f2de6204">yml files added</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/Yog9/SnapShot/commit/d3f1522f9f3d9504df2e0ba400253813f2de6204/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
+        </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/Yog9/SnapShot/commit/d3f1522f9f3d9504df2e0ba400253813f2de6204" data-pjax>d3f1522</a>
+            <span itemprop="dateModified"><relative-time datetime="2020-04-21T04:12:45Z" class="no-wrap">Apr 21, 2020</relative-time></span>
+          </span>
+
+          <a data-pjax href="/Yog9/SnapShot/commits/master/src/components/Loader.js" class="ml-3 no-wrap Link--primary no-underline">
+            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/Yog9/SnapShot/contributors-list/master/src/components/Loader.js" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+</div>
 
 
 
@@ -2552,18 +2668,80 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-    5.22 KB
+      10 lines (8 sloc)
+      <span class="file-info-divider"></span>
+    133 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/Yog9/SnapShot/raw/406d69553793e0d85871069326bfa22ee1566ad7/public/logo192.png" href="/Yog9/SnapShot/raw/master/public/logo192.png" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Download
+        <a data-permalink-href="/Yog9/SnapShot/raw/406d69553793e0d85871069326bfa22ee1566ad7/src/components/Loader.js" href="/Yog9/SnapShot/raw/master/src/components/Loader.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/Yog9/SnapShot/blame/406d69553793e0d85871069326bfa22ee1566ad7/src/components/Loader.js" href="/Yog9/SnapShot/blame/master/src/components/Loader.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Yog9/SnapShot/delete/master/public/logo192.png" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EjPJkaWmr-4di4-M1Vyo2NC5-Y7-u64FzdB1fmENCoCJo7H8MegVefy_TDYu8Wai28gUxzuh0tXxTdIfx5TOdQ" />
+        
+<div class="ml-1" data-test-selector="edit-dropdown-menu-component">
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Yog9/SnapShot/edit/master/src/components/Loader.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RYWvP-150FimGcvb0i4s5YTrQa0osUi3j3RXTkPUEXqo-FQNESY6RLBoBmzE88kATjoebHDxcdo4DOXWhHFP4A" autocomplete="off" />
+      <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
+    <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
+</svg>
+</button></form>
+  <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:194498981,&quot;actor_id&quot;:121566511,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+</summary>    <div class="SelectMenu right-0">
+      <div class="SelectMenu-modal width-full">
+        <div class="SelectMenu-list SelectMenu-list--borderless py-2">
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Yog9/SnapShot/edit/master/src/components/Loader.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1Xf7OMB5RO15xGVxbYxgwE6pZcBbuLr-HExa-Y6NS644CgAKPCau8W-1qMZ7UYUlhHg6AQP4g5OrNOhhSSgVNA" autocomplete="off" />
+              <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
+              <div class="color-fg-muted">E</div>
+</button></form>
+            <a aria-label="Open this file in github.dev" data-test-selector="github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:194498981,&quot;actor_id&quot;:121566511,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
+              <div class="mr-5 no-wrap">Open in github.dev</div>
+              <div class="color-fg-muted">.</div>
+</a>
+            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="https://desktop.github.com" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+              Open in GitHub Desktop
+</a>        </div>
+      </div>
+    </div>
+  </details>
+</div>
+
+
+        
+<div data-test-selector="remote-clipboard-copy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Yog9/SnapShot/raw/406d69553793e0d85871069326bfa22ee1566ad7/src/components/Loader.js" data-action="click:remote-clipboard-copy#remoteCopy">
+  
+
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/src/components/Loader.js&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="4b99100edc2076f492c319edf92bd7286c661dc4c33a96b830549b1f1eeab046" aria-label="Copy raw contents">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
+    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
+</svg>
+</span></span>
+  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">      <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+</span>
+  <span data-target="remote-clipboard-copy.success" hidden="hidden">      <span class="tooltipped tooltipped-nw" aria-label="Copied!">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+      </span>
+</span>
+  <span data-target="remote-clipboard-copy.error" hidden="hidden">      <span class="tooltipped tooltipped-nw" aria-label="Something went wrong. Try again.">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+      </span>
+</span>
+</remote-clipboard-copy></div>
+
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Yog9/SnapShot/delete/master/src/components/Loader.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nepvxbBXHHkkaz22rj3JAK7nHcqKlJL2q_pS_8j2Qbqr84E0WU0_x51WhCRM2ZLv3t7ygHGwSuscj48oxZ5o1A" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2596,14 +2774,52 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Yog9/SnapShot/raw/master/public/logo192.png">
-              Download
+            <a class="dropdown-item" href="/Yog9/SnapShot/raw/master/src/components/Loader.js">
+              View raw
             </a>
           </li>
-
             <li>
-              <a class="dropdown-item menu-item-danger" href="/Yog9/SnapShot/delete/master/public/logo192.png">Delete file</a>
+              <remote-clipboard-copy class="dropdown-item" data-src="/Yog9/SnapShot/raw/master/src/components/Loader.js" data-action="click:remote-clipboard-copy#remoteCopy">
+  
+
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:194498981,&quot;originating_url&quot;:&quot;https://github.com/Yog9/SnapShot/blob/master/src/components/Loader.js&quot;,&quot;user_id&quot;:121566511}}" data-hydro-click-hmac="4b99100edc2076f492c319edf92bd7286c661dc4c33a96b830549b1f1eeab046">
+                    Copy raw contents
+</span></span>
+  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
+                  <span class="d-inline-block position-relative" style="top: 3px">
+                    <svg aria-label="fetching contents…" style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+                  </span>
+</span>
+  <span data-target="remote-clipboard-copy.success" hidden="hidden">                  Copy raw contents
+                  <svg aria-label="Copied!" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+</span>
+  <span data-target="remote-clipboard-copy.error" hidden="hidden">                  Copy raw contents
+                  <svg aria-label="Something went wrong. Try again." role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span>
+</remote-clipboard-copy>            </li>
+            <li>
+              <a class="dropdown-item" href="/Yog9/SnapShot/blame/master/src/components/Loader.js">
+                View blame
+              </a>
             </li>
+
+              <li class="dropdown-divider" role="none"></li>
+              <li>
+                <a class="dropdown-item" href="/Yog9/SnapShot/edit/master/src/components/Loader.js">Edit file</a>
+              </li>
+                <li>
+                  <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:194498981,&quot;actor_id&quot;:121566511,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
+                </li>
+              <li>
+                <a class="dropdown-item menu-item-danger" href="/Yog9/SnapShot/delete/master/src/components/Loader.js">Delete file</a>
+              </li>
         </ul>
       </details>
     </div>
@@ -2611,11 +2827,107 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-javascript  gist-border-0">
 
-        <div class="text-center p-3" data-hpc>
-            <span class="border-wrap"><img src="/Yog9/SnapShot/blob/master/public/logo192.png?raw=true" alt="logo192.png"></span>
-        </div>
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="src/components/Loader.js">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-v>React</span> <span class=pl-k>from</span> <span class=pl-s>&#39;react&#39;</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-v>Loader</span> <span class=pl-c1>=</span> <span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>return</span> <span class=pl-kos>(</span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>className</span><span class=pl-c1>=</span><span class=pl-s>&quot;loader&quot;</span><span class=pl-c1>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>div</span><span class=pl-c1>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-k>export</span> <span class=pl-k>default</span> <span class=pl-v>Loader</span><span class=pl-kos>;</span></td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Yog9/SnapShot/blame/406d69553793e0d85871069326bfa22ee1566ad7/src/components/Loader.js">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Yog9/SnapShot/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
     </div>
 
     </div>
@@ -2632,6 +2944,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/Yog9/SnapShot/find-definition"
+     data-tagsearch-ref="master"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
